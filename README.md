@@ -112,7 +112,3 @@ The program will now perform a Burrows-Wheeler alignment and variant call - ente
 For more information about how the alignment works, troubleshooting, or author contact information visit the offical [BWA](http://bio-bwa.sourceforge.net/) page.
 
 To learn more about SamTools and whats included in the package, visit the [SamTools](https://github.com/samtools/) github page. BCFTools is included under the SamTools umbrella and can be found [here](https://github.com/samtools/bcftools). BCFTools will output a .vcf file which contains genetype information.
-
-## Credits
-
-This program was created by Bram Ratz, Ian Lee, and Gurkamal Deol at the University of Guelph. A special thanks to Bram Ratz for carrying the team. 
